@@ -1,6 +1,5 @@
 <?php
 
-$nome = readline("digite seu nome: ");
+echo "Olá Mundo!";
 
-echo "boa noite ". $nome . "seja bem vindo";
 ?>
